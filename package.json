@@ -1,0 +1,23 @@
+{
+  "name": "expressdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickyvaghela/vikfirstnodeproj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vickyvaghela/vikfirstnodeproj/issues"
+  },
+  "homepage": "https://github.com/vickyvaghela/vikfirstnodeproj#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
